@@ -1,0 +1,15 @@
+# PDFs (demasiado pesados para GitHub)
+Alaior/
+Ciutadella/
+Es_Castell/
+Ferreries/
+Mao/
+Sant_Lluis/
+
+# Scripts y datos internos
+*.py
+*.jsonl
+*.json
+*.xlsx
+*_backup*
+extraccion_log.txt
